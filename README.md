@@ -28,6 +28,7 @@
 ## Mixed
 
 - [grafana/grafana](https://github.com/grafana/grafana) - Default license with [AGPL-3.0-only](https://github.com/grafana/grafana/blob/main/LICENSE), with [some exceptions](https://github.com/grafana/grafana/blob/main/LICENSING.md)
+- [grpc/grpc](https://github.com/grpc/grpc/blob/master/LICENSE) - Apache License 2.0, BSD 3-Clause License, and Mozilla Public License v2.0 - [more here](https://github.com/grpc/grpc/blob/master/LICENSE)
 - [nodejs/node](https://github.com/nodejs/node) - [Complex mixture of licenses](https://github.com/nodejs/node/blob/master/LICENSE) 🤯
 - [rust-lang/rust](https://github.com/rust-lang/rust) - MIT, Apache License 2.0, and BSD-like licenses - [more here](https://github.com/rust-lang/rust#license)
 
