@@ -40,3 +40,8 @@
 ## Other
 
 - [golang/go](https://github.com/golang/go) - [Unnamed License?](https://github.com/golang/go/blob/master/LICENSE)
+
+# Other References
+
+- https://choosealicense.com/ - List of licenses curated by GitHub
+- https://choosealicense.com/community/ - Some community related details (e.g. CNCF dictates Apache License 2.0 by default)
