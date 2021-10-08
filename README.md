@@ -21,6 +21,10 @@
 
 - [flutter/flutter](https://github.com/flutter/flutter) - [LICENSE](https://github.com/flutter/flutter/blob/master/LICENSE)
 
+## GNU General Public License v2.0
+
+- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - [LICENSE](https://github.com/gnachman/iTerm2/blob/master/LICENSE)
+
 ## Mozilla Public License 2.0
 
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - [LICENSE](https://github.com/hashicorp/terraform/blob/main/LICENSE)
