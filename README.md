@@ -10,6 +10,7 @@
 
 ## Apache License 2.0
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - [LICENSE](https://github.com/alacritty/alacritty/blob/master/LICENSE-APACHE)
 - [apple/swift](https://github.com/apple/swift) - [LICENSE](https://github.com/apple/swift/blob/main/LICENSE.txt)
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - [LICENSE](https://github.com/etcd-io/etcd/blob/main/LICENSE)
 - [istio/istio](https://github.com/istio/istio) - [LICENSE](https://github.com/istio/istio/blob/master/LICENSE)
