@@ -1,4 +1,4 @@
-# Open Source Projects by Lincese Used
+# List of Open Source Projects by Lincese Used
 
 ## MIT
 
